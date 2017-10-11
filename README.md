@@ -24,3 +24,5 @@ Restrições:
 Isso não deve demorar muito. No máximo uma hora. Passando disso, mande o código que você tem para nossa avaliação.
 
 Tente pensar em casos de uso possíveis, indo além do solicitado aqui. Isso pode ser o diferencial.
+
+Enviar o link do repositório para ivens+vagas@webjump.com.br. Respondo em até 48 horas úteis!
