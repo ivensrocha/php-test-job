@@ -7,7 +7,7 @@ API
 
 Crie uma tela simplificada para input de dados, com campo para Nome e um botão de submit.
 Crie uma tela simplificada para listagem dos dados cadastrados.
-Não se preocupe com design, mas você é livre para criar usando qualquer ferramenta disponívels no mercado (Bootstrap, por exemplo).
+Não se preocupe com design, você é livre para criar usando quaisquer ferramentas disponíveis no mercado (Bootstrap, por exemplo).
 
 Crie um endpoint para inserção de dados:
 Ao preencher o input para entrada de um Nome e clicar no botão Enviar, os dados devem ser enviados para um endpoint REST e tratado com AJAX do lado do navegador.
